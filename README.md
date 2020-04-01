@@ -1,2 +1,0 @@
-# redwood-blog
-RedwoodJS practice
